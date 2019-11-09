@@ -8,7 +8,7 @@
 
 1. Run <code>$ composer install</code> to install the dependencies of this project.
 2. Visit <code>[host]/get.php?id=[STUID]&pass=[RAW_PASSWORD]</code>
-3. Visit <code>[host]/cal.php?id=[STUID]</code>
+3. Visit <code>[host]/cal.html?id=[STUID]</code>
 
 ## Notifications
 1. Never put this project onto a factory environment! It's written without necessary secruity measures to prevent injections.
